@@ -1,6 +1,11 @@
 # Sobre o projeto Moveit 🚀
 
-![rocketseat_logo](https://miro.medium.com/max/2732/1*5S5Dg5ajNGeExqC372V2Sg.png)
+[![Linkedin Badge](https://img.shields.io/badge/-DiiOliiver-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diioliiver/)](https://www.linkedin.com/in/diioliiver/)
+![Badge](https://img.shields.io/github/license/facebook/react)
+![react](https://aleen42.github.io/badges/src/react.svg)
+![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)
+
+![rocketseat_logo](https://blog.rocketseat.com.br/content/images/2020/07/melhores-sites-para-baixar-imagens-gratuitas-e-outros-recursos-preview.png)
 
 Moveit é realizado em conjunto com a Rocketseat no evento NLW4. O projeto é um pomodoro, tendo a temática e funcionalidade relacionada a experiência de jogar um jogo.
 
@@ -24,7 +29,3 @@ $ yarn dev
 ## Exemplo visual
 
 ![01_moveit_gif](https://i.imgur.com/NqamJL9.gif)
-
-## Licença
-
-![Badge](https://img.shields.io/github/license/facebook/react)
